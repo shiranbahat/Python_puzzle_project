@@ -1,4 +1,4 @@
-# Python_puzzle_project
+# Python Puzzle Project
 
 The 15-puzzle is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
 ![image](https://user-images.githubusercontent.com/60502982/111385107-f7863300-86b2-11eb-84bf-ba090d1e1062.png)
